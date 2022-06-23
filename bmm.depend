@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1614512646 source:d:\ksi¹¿ki\uph\podstawy programowania\projekt\blockmatrixmulti_final\bmm\main.cpp
+	"macierze.h"
+
+1614530511 d:\ksi¹¿ki\uph\podstawy programowania\projekt\blockmatrixmulti_final\bmm\macierze.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<locale.h>
+	<conio.h>
+	<fstream>
+	<ctime>
+	<math.h>
+	<iomanip>
+
